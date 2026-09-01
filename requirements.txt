@@ -2,3 +2,6 @@ pytelegrambotapi
 openai
 flask
 gunicorn
+git add requirements.txt
+git commit -m "اضافة gunicorn"
+git push
