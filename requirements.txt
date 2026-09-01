@@ -1,2 +1,4 @@
-    pytelegrambotapi
-    openai
+pytelegrambotapi
+openai
+flask
+gunicorn
